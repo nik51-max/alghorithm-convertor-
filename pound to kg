@@ -1,0 +1,5 @@
+var kg
+var pound =10
+kg= pound*0.453592;
+console.log(pound);
+alert("kg" + kg);
